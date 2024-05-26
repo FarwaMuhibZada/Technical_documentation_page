@@ -1,0 +1,22 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  display: flex;
+  flex-direction: row;
+}
+
+#navbar {
+  width: 25%;
+  height: 100vh;
+  background-color: #802c6e;
+}
+
+#main-doc {
+  width: 75%;
+  background-color: whitesmoke ;
+  height: 100vh;
+}

@@ -64,15 +64,15 @@ cd>Technical_Documentation _Page> code .
 
 
 ## Features ⭐
-- this web page is responsive
+- Responsive webpage
 
 
-## Author 👩‍💻
+## FarwaMuhibzada 👩‍💻
 
-Provide your name and a link to your Social Media profiles. You can also include your email address.
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/farwa-muhibzada/)
-- Email: [example](farwafarid2017@gmail.com)
+
+- LinkedIn: [(https://www.linkedin.com/in/farwa-muhibzada/)]
+- Email: [(farwafarid2017@gmail.com)]
 
 ## Contributing 🤝
 For contribution you can create a pull request and mention me there.Thank you.
