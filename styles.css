@@ -10,7 +10,6 @@ body {
   line-height: 1.5;
   margin: 0;
   padding: 0;
-  height: 100vh;
 }
 
 header {
@@ -27,6 +26,9 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  position: fixed;
+  overflow: scroll;
+  
 }
 
 nav header {
@@ -40,7 +42,8 @@ nav header {
   height: 100vh;
   margin: 15px;
   padding: 5px;
-  overflow: scroll;
+  position: relative;
+  left: 325px;
 }
 
 .nav-link {
@@ -69,4 +72,18 @@ code {
 }
 
 
+@media(max-width: 750px) {
+  body{
+    flex-direction: column;
+  }
 
+  #main-doc {
+    width: 100%;
+  }
+
+  #navbar {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+}
