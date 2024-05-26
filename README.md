@@ -2,7 +2,7 @@
 
 ## Project Description 📝
 
-> That is a technical documentaion page that have a main section that cantaian all the articles and a navbar section which cantain all the ancher tages and then we use id selector to refrence the specific article to specific links in navbar. That web pages is fully responsive we use @media querythat adjust our page in every screen size. this is the main feature of this webpage. The navbar section located on left side when the screen sixe is less then 800px it will show on the top of screen.
+> That is a technical documentaion page that have a main section that cantaian all the articles and a navbar section which containe all the ancher tages and then we use id selector to reference the specific article to specific links in navbar. That web pages is fully responsive we use @media querythat adjust our page in every screen size. this is the main feature of this webpage. The navbar section located on left side when the screen sixe is less then 800px it will show on the top of screen.
 
 
 
