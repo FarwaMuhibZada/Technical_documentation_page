@@ -8,7 +8,28 @@
 
 
 ```css
-/* You can also include CSS code snippets. */
+@media(max-width: 750px) {
+  body{
+    flex-direction: column;
+  }
+
+  #main-doc {
+    width: 100%;
+    position: relative;
+    top :600px;
+    left :0;
+  }
+
+  #navbar {
+    width: 100%;
+    margin-bottom: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
+  }
+
+}
 
 ```
 
@@ -18,7 +39,7 @@
 
 here is a demo of Technical Documentation page.
 
-![Demo](https://via.placeholder.com/600x300)
+![Demo](Capture.PNG)
 
 ## Technologies Used 🛠️
 
