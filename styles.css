@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: 'Open Sans';
+  font-family: Arial, sans-serif;
 }
 
 body {
@@ -89,5 +89,4 @@ code {
     left: 0;
     overflow: auto;
   }
-
 }
