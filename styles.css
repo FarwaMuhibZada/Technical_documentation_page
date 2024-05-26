@@ -27,7 +27,7 @@ header {
   flex-direction: column;
   justify-content: flex-start;
   position: fixed;
-  overflow: scroll;
+  overflow: auto;
   
 }
 
@@ -79,11 +79,18 @@ code {
 
   #main-doc {
     width: 100%;
+    position: relative;
+    top :600px;
+    left :0;
   }
 
   #navbar {
     width: 100%;
     margin-bottom: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
   }
 
 }
